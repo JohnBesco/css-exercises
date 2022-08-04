@@ -2,3 +2,8 @@
     background-color: rgb(218, 121, 137);
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
+
+#firstId {
+    background-color: rgb(3, 3, 212);
+    font-size: 32px;
+}
