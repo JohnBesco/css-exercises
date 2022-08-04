@@ -11,3 +11,9 @@
 .oddSized {
     font-size: 24px;
 }
+
+#secondId {
+    background-color: rgb(142, 244, 142);
+    font-size: 24px;
+    font-weight: bold;
+}
