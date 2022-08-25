@@ -12,6 +12,13 @@ img {
   font-weight: 900;
 }
 
+.header-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
