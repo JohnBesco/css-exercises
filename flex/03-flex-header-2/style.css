@@ -48,9 +48,11 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 1em;
+  margin-left: -40em;
+  gap: 16px;
 }
 
 .notifications-wrapper {
   display: flex;
+  gap: 16px;
 }
