@@ -71,11 +71,11 @@ button.cancel {
   color: royalblue;
 }
 
-.modalMiddle {
+.middle-section {
   display: flex;
   flex-direction: column;
 }
 
-.modalButtons {
+.modal-buttons {
   margin: 1rem;
 }
