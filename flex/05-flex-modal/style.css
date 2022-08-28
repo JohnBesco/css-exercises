@@ -46,7 +46,6 @@ body {
 
 .text {
   margin-top: -1rem;
-  flex-shrink: 0;
 }
 
 .close-button {
