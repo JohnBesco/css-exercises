@@ -41,6 +41,12 @@ body {
 
 .header {
   margin: 1.5rem -0.2rem;
+  font-size: larger;
+}
+
+.text {
+  margin-top: -1rem;
+  flex-shrink: 0;
 }
 
 .close-button {
@@ -55,7 +61,8 @@ body {
   flex-shrink: 0;
   align-items: center;
   justify-content: center;
-  margin: 1.5rem;
+  margin-top: 1.2rem;
+  margin-right: 0.9rem;
 }
 
 button {
