@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -49,6 +51,7 @@ li {
 
 .main-section {
   display: flex;
+  flex: 1;
   justify-content: center;
   align-items: center;
 }
@@ -67,3 +70,9 @@ li {
 .buttons, button {
   padding: 8px;
 }
+
+.footer {
+  background-color: red;
+  display: flex;
+}
+
