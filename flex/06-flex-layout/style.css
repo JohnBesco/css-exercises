@@ -57,3 +57,13 @@ li {
   display: flex;
   justify-content: center;
 }
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.buttons, button {
+  padding: 8px;
+}
