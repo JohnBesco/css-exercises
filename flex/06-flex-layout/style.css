@@ -30,7 +30,6 @@ input {
 
 .header {
   display: flex;
-  margin-right: 15px;
   justify-content: space-between;
 }
 
@@ -42,7 +41,6 @@ a {
 ul {
   display: flex;
   gap: 25px;
-  justify-content: space-between;
 }
 
 li {
