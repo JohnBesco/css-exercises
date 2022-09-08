@@ -24,13 +24,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex: 1 0 0%;
+  flex-shrink: 0;
+  flex-grow: 0;
 }
 
 .sidebar {
   display: flex;
   width: 300px;
   background: royalblue;
+  flex-shrink: 0;
 }
 
 .card {
